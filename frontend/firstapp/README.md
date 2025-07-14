@@ -6,11 +6,6 @@ This project is a simple and responsive To-Do List application built using **Rea
 
 Follow the steps below to clone the project and run it locally on your machine.
 
-### 🔧 Prerequisites
-
-- Node.js and npm must be installed.  
-  You can download them from: [https://nodejs.org](https://nodejs.org)
-
 ### 📥 Clone the Repository
 
 ```bash
