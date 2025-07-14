@@ -17,10 +17,15 @@ Follow the steps below to clone the project and run it locally on your machine.
 git clone https://github.com/HemanthKumar4444/Todo-App.git
 ```
 ### Navigate to the Project Folder
+```bash
 cd Todo-App/frontend/firstapp
-
+```
 ### Install Dependencies
+```bash
 npm install
+```
 
 ### Starting the project on local server
+```bash
 npm start
+```
